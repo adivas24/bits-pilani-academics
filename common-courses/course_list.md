@@ -15,7 +15,7 @@
 | CS F111 | Computer Programming | CP | Dr. Manoj Kannan | Sem 2 2017-18 |
 | MATH F112 | Mathematics II | M2 | Trilok Mathur | Sem 2 2017-18 |
 | MATH F113 | Probability and Statistics | PnS or ProbStats | Pradipkumar H. Keskar | Sem 2 2017-18 |
-| PHY F111 | Mechanical Oscillations and Waves | MeOW | Debashis Bandyopadhyay | Sem 2 2017-18 |
+| PHY F111 | Mechanics, Oscillations and Waves | MeOW | Debashis Bandyopadhyay | Sem 2 2017-18 |
 | MATH F211 | Mathematics III | M3 | Sangita Yadav | Sem 1 2018-19 |
 | BITS F225 | Environmental Studies| EVS | Pankaj Kumar Sharma | Sem 2 2018-19 |
 | ECON F211 | Principles of Economics| PoE | Geetilaxmi Mohapatra | Sem 2 2018-19 |
